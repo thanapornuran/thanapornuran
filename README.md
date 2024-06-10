@@ -18,9 +18,9 @@ now, i'm learning framework(s) 𐙚 ⋆˚｡⋆
 - Nuxt.hs
 
 **VScode Setting**
-theme: Cyberpunk-2020
-font: Mononoki Nerd Font
-font size: 16
+- theme: Cyberpunk-2020
+- font: Mononoki Nerd Font
+- font size: 16
 
 <!---
 thanapornuran/thanapornuran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
