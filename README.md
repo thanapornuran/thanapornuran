@@ -22,6 +22,9 @@ now, i'm learning framework(s) 𐙚 ⋆˚｡⋆
 - 🌃 font: Mononoki Nerd Font
 - 🎮 font size: 16
 
+**Contact Me !** •ᴗ•
+- Email : thanapornlim45@gmil.com
+
 <!---
 thanapornuran/thanapornuran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
