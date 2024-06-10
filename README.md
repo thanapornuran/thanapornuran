@@ -1,10 +1,10 @@
 ![image](https://github.com/thanapornuran/thanapornuran/assets/159028034/5bdabebb-cd12-4245-850b-7749aa7cda59)
-𝘴𝘳𝘤: https://x.com/ArkhaiPxls/status/1745037794144301530
+𝘴𝘳𝘤: https://x.com/ArkhaiPxls/status/1745037794144301530 ⚡
 
-˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚
+˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚ ⋆.˚✮🎧✮˚.⋆
 
 - 👋 Hi, I’m @thanapornuran ( Waenkeaw ) ₍⑅ᐢ..ᐢ₎
-- 👀 I’m interested in "coding", "gaming", "music", "Japan", "drawing", other. ⭑.ᐟ
+- 👀 I’m interested in "coding", "gaming", "music", "Japan", "drawing", other. ⭑.ᐟ 
 - 🌱 I’m currently learning `PHP`, `TypeScript`, `JavaScript`, `HTML`, `mySQL`, other. ⭑.ᐟ
 
 おはようございます! 私は学生です。日本語を勉強しでいます。日本語を少し話せます。よろしくお願いします! 
@@ -17,10 +17,10 @@ now, i'm learning framework(s) 𐙚 ⋆˚｡⋆
 - Vue.js
 - Nuxt.hs
 
-**VScode Setting**
-- theme: Cyberpunk-2020
-- font: Mononoki Nerd Font
-- font size: 16
+**VScode Setting** 𓍢ִ໋🌷͙֒
+- 👾 theme: Cyberpunk-2020 
+- 🌃 font: Mononoki Nerd Font
+- 🎮 font size: 16
 
 <!---
 thanapornuran/thanapornuran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
