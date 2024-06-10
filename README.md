@@ -7,7 +7,20 @@
 - 👀 I’m interested in "coding", "gaming", "music", "Japan", "drawing", other. ⭑.ᐟ
 - 🌱 I’m currently learning `PHP`, `TypeScript`, `JavaScript`, `HTML`, `mySQL`, other. ⭑.ᐟ
 
+おはようございます! 私は学生です。日本語を勉強しでいます。日本語を少し話せます。よろしくお願いします! 
+
 ───✱*.｡:｡✱*.:｡✧*.｡✰*.:｡✧*.｡:｡*.｡✱ ───
+
+now, i'm learning framework(s) 𐙚 ⋆˚｡⋆
+- Angular
+- Laravel
+- Vue.js
+- Nuxt.hs
+
+**VScode Setting**
+theme: Cyberpunk-2020
+font: Mononoki Nerd Font
+font size: 16
 
 <!---
 thanapornuran/thanapornuran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
