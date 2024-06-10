@@ -1,12 +1,14 @@
 ![image](https://github.com/thanapornuran/thanapornuran/assets/159028034/5bdabebb-cd12-4245-850b-7749aa7cda59)
+src: https://x.com/ArkhaiPxls/status/1745037794144301530
 
-- 👋 Hi, I’m @thanapornuran
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚
+
+- 👋 Hi, I’m @thanapornuran ( Waenkeaw ) ₍⑅ᐢ..ᐢ₎
+- 👀 I’m interested in "coding", "gaming", "music", "Japan", "drawing", other. ⭑.ᐟ
+- 🌱 I’m currently learning `PHP`, `TypeScript`, `JavaScript`, `HTML`, `mySQL`, other. ⭑.ᐟ
+
+
+───✱*.｡:｡✱*.:｡✧*.｡✰*.:｡✧*.｡:｡*.｡✱ ───
 
 <!---
 thanapornuran/thanapornuran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
