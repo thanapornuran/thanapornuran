@@ -15,7 +15,7 @@ now, i'm learning framework(s) 𐙚 ⋆˚｡⋆
 - Angular
 - Laravel
 - Vue.js
-- Nuxt.hs
+- Nuxt.js
 
 **VScode Setting** 𓍢ִ໋🌷͙֒
 - 👾 theme: Cyberpunk-2020 
