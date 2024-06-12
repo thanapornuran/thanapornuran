@@ -18,7 +18,7 @@ now, i'm learning framework(s) 𐙚 ⋆˚｡⋆
 - Nuxt.js
 
 **VScode Setting** 𓍢ִ໋🌷͙֒
-- 👾 theme: Tokyo Hack
+- 👾 theme: Monokai
 - 🌃 font: Mononoki Nerd Font
 - 🎮 font size: 16
 
