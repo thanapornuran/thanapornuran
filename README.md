@@ -18,7 +18,7 @@ now, i'm learning framework(s) 𐙚 ⋆˚｡⋆
 - Nuxt.js
 
 **VScode Setting** 𓍢ִ໋🌷͙֒
-- 👾 theme: Cyberpunk-2020 
+- 👾 theme: Tokyo Hack
 - 🌃 font: Mononoki Nerd Font
 - 🎮 font size: 16
 
