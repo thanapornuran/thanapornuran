@@ -8,10 +8,11 @@
 ───✱*.｡:｡✱*.:｡✧*.｡✰*.:｡✧*.｡:｡*.｡✱ ───
 
 now, i'm learning framework(s) 𐙚 ⋆˚｡⋆
-- Angular
+- Nuxt.js
+- Node.js
 - Laravel
 - Vue.js
-- Nuxt.js
+- Angular
 
 **VScode Setting** 𓍢ִ໋🌷͙֒
 - 👾 theme: Monokai
